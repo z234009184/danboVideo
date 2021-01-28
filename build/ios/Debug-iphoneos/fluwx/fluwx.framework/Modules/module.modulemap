@@ -1,0 +1,6 @@
+framework module fluwx {
+  umbrella header "fluwx-umbrella.h"
+
+  export *
+  module * { export * }
+}
